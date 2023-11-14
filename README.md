@@ -21,7 +21,7 @@
 - Created web tool with **third-party** integration (eg., Teamup, Google Admob)
 - Made Crawling tools with **winform and C#**
 - **Data Modeling** with MySQL for R&D project
-- **Established Database** for New functuction in recruit web site.
+- **Established Database** for New function in recruit web site.
 ***
 
 <br>
@@ -39,7 +39,7 @@ Dragon Village M
 Cabal/CabalM
 - Served in KOREA/JAPEN/CHINA/TAIWAN/THAILAND
 - Utilized directX9 with **C++**
-- Solved **IOS/AOS system** issues
+- Solved **iOS/Android** issues
 ***
 ## Skill
 
