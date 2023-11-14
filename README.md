@@ -57,8 +57,9 @@ Cabal/CabalM
 
 
 ## Personal Project
-- [Stock Simulation](https://github.com/junghakim2023/Stock_Simulation)
-- [Chaos Monkey Clones and Custom Projects](https://github.com/junghakim2023/Chaos_Monkey_Clone)
+- [Stock Simulation](https://github.com/junghakim2023/StockSimulation)
+- [StudyRemindChatBot](https://github.com/junghakim2023/StudyRemindChatBot)
+- [Chaos Monkey Clones and Custom Projects](https://github.com/junghakim2023/ChaosMonkeyClone)
 - [Nodejs Trial](https://github.com/junghakim2023/Trial_Nodejs)
 - [Aws Trial](https://github.com/junghakim2023/Trial_Aws)
 
