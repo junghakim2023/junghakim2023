@@ -43,26 +43,20 @@ Cabal/CabalM
 ***
 ## Skill
 
-### Language
-- Java,  Kotlin,  Python,  C#,  C++,   JavaScript,  Lua,  Swift,  Jquery
+### Advanced
+- Java, C#, C++, JavaScript, MySQL, MSSQL, SpringBoot, .Net, [Git, SVN, Jenkins, Maven, Tomcat, Visual Studio, IntelliJ]
 
-### Server
-- MySQL,  MSSQL,  Apache,  Tomcat,  NGIX
+### Intermediate
+- Kotlin, Python, Jquery, NodeJS, [AWS]
     
-### Tools
-- Visual Studio  IntelliJ  Git  SVN Jenkins Maven Jira
-
-### Framework
-- Spring,  .Net,  MyBatis, Hiberate
-
+### Basic
+- Lua, Swift, NGIX, NoSQL, [Apache, Jira]
 
 ## Personal Project
+- [TimeTutor](https://github.com/junghakim2023/TimeTutor)
+- [AuthHub](https://github.com/junghakim2023/AuthHub)
 - [Stock Simulation](https://github.com/junghakim2023/StockSimulation)
-- [StudyRemindChatBot](https://github.com/junghakim2023/StudyRemindChatBot)
 - [Chaos Monkey Clones and Custom Projects](https://github.com/junghakim2023/ChaosMonkeyClone)
-- [Nodejs Trial](https://github.com/junghakim2023/Trial_Nodejs)
-- [Aws Trial](https://github.com/junghakim2023/Trial_Aws)
-
 
 ## Interest
 - Boxing
