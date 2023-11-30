@@ -10,19 +10,18 @@
 ### WEB Service
 - [Cabal Game Web Store]
   ![image](https://github.com/junghakim2023/junghakim2023/assets/150854918/dcefab34-e6fd-4de4-b8d2-11440dfb6077)
-- [Cabal Homepage](https://cabal.estgames.com/main) (KOREA/JAPEN/CHINA/TAIWAN/THAILAND)
+- [Cabal Homepage](https://cabal.estgames.com/main) 
 - [Estgames Recruit WebSite](https://recruit.estgames.co.kr/recruitBoard/list)
-***
-- Served in KOREA/JAPEN/CHINA/TAIWAN/THAILAND
-- Maintained and improved Spring framework based web server using **Java, Kotlin and Hibernate**. (eg., game web store, recruitment site, game homepage, etc )
-- Developed Spring framework based **java Restful API**.
-- Enhanced function through **MSSQL/MySQL** Query Tuning.
-- Made useful application with **C# and Python**.
-- Created web tool with **third-party** integration (eg., Teamup, Google Admob)
-- Made Crawling tools with **winform and C#**
-- **Data Modeling** with MySQL for R&D project
-- **Established Database** for New function in recruit web site.
-***
+
+> - Served in Korea/Japen/China/Taiwan/Thailand/USA/Spain/Brazil
+> - Maintained and improved Spring framework based web server using **Java, Kotlin and Hibernate**. (eg., game web store, recruitment site, game homepage, etc )
+> - Developed Spring framework based **java Restful API**.
+> - Enhanced function through **MSSQL/MySQL** Query Tuning.
+> - Made useful application with **C# and Python**.
+> - Created web tool with **third-party** integration (eg., Teamup, Google Admob)
+> - Made Crawling tools with **winform and C#**
+> - **Data Modeling** with MySQL for R&D project
+> - **Established Database** for New function in recruit web site.
 
 <br>
 <br>
@@ -31,16 +30,16 @@
 - [Dragon Vilage M](https://play.google.com/store/apps/details?id=com.perplelab.dragonvillagem.kr&hl=en_US&pli=1)
 - [Cabal](https://cabal.playthisgame.com/en) 
 - [CabalM](https://play.google.com/store/apps/details?id=com.estgames.cm.us&hl=en_US)
-***
-Dragon Village M
-- Utilized cocos2d with **Lua and C++**
-- Attached **third-party (onestore payment library)**
+
+> - **Dragon Village M**
+> - Utilized cocos2d with **Lua and C++**
+> - Attached **third-party (onestore payment library)**
   
-Cabal/CabalM
-- Served in KOREA/JAPEN/CHINA/TAIWAN/THAILAND
-- Utilized directX9 with **C++**
-- Solved **iOS/Android** issues
-***
+> - **Cabal/CabalM**
+> - Served in Korea/Japen/China/Taiwan/Thailand
+> - Utilized directX9 with **C++**
+> - Solved **iOS/Android** issues
+
 ## Skill
 
 ### Advanced
