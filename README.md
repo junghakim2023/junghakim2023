@@ -54,8 +54,8 @@
 ## Personal Project
 - [TimeTutor](https://github.com/junghakim2023/TimeTutor)
 - [AuthHub](https://github.com/junghakim2023/AuthHub)
-- [Stock Simulation](https://github.com/junghakim2023/StockSimulation)
-- [Chaos Monkey Clones and Custom Projects](https://github.com/junghakim2023/ChaosMonkeyClone)
+- ~~[Stock Simulation](https://github.com/junghakim2023/StockSimulation)~~
+- ~~[Chaos Monkey Clones and Custom Projects](https://github.com/junghakim2023/ChaosMonkeyClone)~~
 
 ## Interest
 - Boxing
