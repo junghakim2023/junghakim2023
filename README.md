@@ -53,6 +53,7 @@
 
 ## Personal Project
 - [TimeTutor](https://github.com/junghakim2023/TimeTutor)
+- [TimeTutor_React](https://github.com/junghakim2023/TimeTutor_React)
 - [AuthHub](https://github.com/junghakim2023/AuthHub)
 - ~~[Stock Simulation](https://github.com/junghakim2023/StockSimulation)~~
 - ~~[Chaos Monkey Clones and Custom Projects](https://github.com/junghakim2023/ChaosMonkeyClone)~~
