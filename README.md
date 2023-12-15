@@ -16,6 +16,7 @@
 > - Served in Korea/Japen/China/Taiwan/Thailand/USA/Spain/Brazil
 > - Maintained and improved Spring framework based web server using **Java, Kotlin and Hibernate**. (eg., game web store, recruitment site, game homepage, etc )
 > - Developed Spring framework based **java Restful API**.
+> - Developed .Net framework based **C# Restful API**.
 > - Enhanced function through **MSSQL/MySQL** Query Tuning.
 > - Made useful application with **C# and Python**.
 > - Created web tool with **third-party** integration (eg., Teamup, Google Admob)
