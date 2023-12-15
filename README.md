@@ -1,5 +1,5 @@
 ## Career
-- (06/2020-08/2023) Backend Developer / Game Client Developer (for 1 year)
+- (06/2020-07/2023) Backend Developer / Game Client Developer (for 1 year)
 - (09/2018-01/2020) Game Client Developer
 
 ## Contact
@@ -55,8 +55,6 @@
 - [TimeTutor](https://github.com/junghakim2023/TimeTutor)
 - [TimeTutor_React](https://github.com/junghakim2023/TimeTutor_React)
 - [AuthHub](https://github.com/junghakim2023/AuthHub)
-- ~~[Stock Simulation](https://github.com/junghakim2023/StockSimulation)~~
-- ~~[Chaos Monkey Clones and Custom Projects](https://github.com/junghakim2023/ChaosMonkeyClone)~~
 
 ## Interest
 - Boxing
