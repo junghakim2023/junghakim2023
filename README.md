@@ -1,6 +1,6 @@
 ## Career
 - (06/2020-07/2023) Backend Developer / Game Client Developer (for 1 year)
-- (09/2018-01/2020) Game Client Developer
+- (09/2018-01/2020) Mobile Game Client Developer
 
 ## Contact
 - email : jungha.kim.2023@gmail.com
