@@ -42,6 +42,16 @@
 > - Utilized directX9 with **C++**
 > - Solved **iOS/Android** issues
 
+<br>
+<br>
+
+### Tools
+- WebTool (Crawling Tool)
+- Schedule alarm
+- Draw Simulator
+
+<br>
+
 ## Skill
 
 ### Advanced
