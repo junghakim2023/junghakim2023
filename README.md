@@ -4,7 +4,7 @@
 
 ## Contact
 - email : jungha.kim.2023@gmail.com
-- phone : (236)-688-8598
+- phone : (236) 688-8598
 
 ## Project in Company
 ### WEB Service
