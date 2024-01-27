@@ -34,12 +34,12 @@
 - Android App [Cabal Assistance](https://play.google.com/store/apps/details?id=com.ESTSoft.Cabal&hl=ko&gl=US)
 - IOS App [Cabal Assistance](https://apps.apple.com/kr/app/cabal-mobile/id413623407)
 > - **Dragon Village M**
-> - Utilized cocos2d with **Lua and C++**
+> - Maintain Contents Utilizing cocos2d with **Lua and C++**
 > - Attached **third-party (onestore payment library)**
   
 > - **Cabal/CabalM**
 > - Served in Korea/Japen/China/Taiwan/Thailand
-> - Utilized directX9 with **C++**
+> - Maintain Contents Utilizing directX9 with **C++**
 > - Solved **iOS/Android** issues
 
 <br>
