@@ -55,10 +55,10 @@
 ## Skill
 
 ### Advanced
-- Java, C#, C++, JavaScript, MySQL, MSSQL, SpringBoot, .Net, Linux, React, NodeJS [Git, SVN, Jenkins, Maven, Tomcat] [AWS]
+- Java, C#, C++, JavaScript, MySQL, MSSQL, SpringBoot, Python, .Net, Linux, React, NodeJS [Git, SVN, Jenkins, Maven, Tomcat] [AWS]
 
 ### Intermediate
-- Kotlin, Python, Jquery
+- Kotlin, Jquery
     
 ### Basic
 - Lua, Swift, NGIX, NoSQL, [Apache, Jira]
