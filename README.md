@@ -1,5 +1,5 @@
 ## Career
-- (06/2020-07/2023) Backend Developer / Game Client Developer 
+- (06/2020-07/2023) Backend Developer(2 years) / Game Client Developer(1 year)
 - (09/2018-01/2020) Mobile Game Client Developer
 
 ## Contact
