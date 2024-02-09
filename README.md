@@ -12,17 +12,16 @@
   ![image](https://github.com/junghakim2023/junghakim2023/assets/150854918/dcefab34-e6fd-4de4-b8d2-11440dfb6077)
 - [Cabal Homepage](https://cabal.estgames.com/main) 
 - [Estgames Recruit WebSite](https://recruit.estgames.co.kr/recruitBoard/list)
-
-> - Served in Korea/Japen/China/Taiwan/Thailand/USA/Spain/Brazil
 > - Maintained and improved Spring framework based web server using **Java, Kotlin and Hibernate**. (eg., game web store, recruitment site, game homepage, etc )
-> - Developed Spring framework based **java Restful API**.
-> - Developed .Net framework based **C# Restful API**.
-> - Enhanced function through **MSSQL/MySQL** Query Tuning.
-> - Made useful application with **C# and Python**.
+> - Reduced unnecessary duplication of work by 3 times through merging projects that were initially divided by country.
+> - Automated the extraction of statistics and sales data by creating a crawling tool using .Net and C#.
+> - Reduced inquiry response time by 25% by correcting incorrect mappings.
+
+
+> - Developed Spring framework based java/C# Restful API.
+> - Made build script using Python.
 > - Created web tool with **third-party** integration (eg., Teamup, Google Admob)
-> - Made Crawling tools with **winform and C#**
 > - **Data Modeling** with MySQL for R&D project
-> - **Established Database** for New function in recruit web site.
 
 <br>
 <br>
@@ -36,7 +35,8 @@
 > - **Dragon Village M**
 > - Maintain Contents Utilizing cocos2d with **Lua and C++**
 > - Attached **third-party (onestore payment library)**
-  
+> - Find UI engine error affecting 20% in the entire UI and report it.
+
 > - **Cabal/CabalM**
 > - Served in Korea/Japen/China/Taiwan/Thailand
 > - Maintain Contents Utilizing directX9 with **C++**
