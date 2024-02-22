@@ -1,6 +1,6 @@
 ## Career
-- (06/2020-07/2023) Backend Developer(2 years) / Game Client Developer(1 year)
-- (09/2018-01/2020) Mobile Game Client Developer
+- (06/2020-07/2023) Backend Developer(2 years) / Game Software Developer(1 year)
+- (09/2018-01/2020) Mobile Game Software Developer
 
 ## Contact
 - email : jungha.kim.2023@gmail.com
@@ -53,15 +53,9 @@
 <br>
 
 ## Skill
+- Java, C#, C++, JavaScript, MySQL, MSSQL, SpringBoot, AWS, Python, .Net, Linux, React, HTML, CSS, NodeJS, Jquery
+- Git, SVN, Jenkins, Maven, Tomcat, Apache
 
-### Advanced
-- Java, C#, C++, JavaScript, MySQL, MSSQL, SpringBoot, Python, .Net, Linux, React, NodeJS [Git, SVN, Jenkins, Maven, Tomcat] [AWS]
-
-### Intermediate
-- Kotlin, Jquery
-    
-### Basic
-- Lua, Swift, NGIX, NoSQL, [Apache, Jira]
 
 ## Personal Project
 - [TimeTutor](https://github.com/junghakim2023/TimeTutor)
