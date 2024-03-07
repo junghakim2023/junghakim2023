@@ -13,15 +13,13 @@
 - [Cabal Homepage](https://cabal.estgames.com/main) 
 - [Estgames Recruit WebSite](https://recruit.estgames.co.kr/recruitBoard/list)
 > - Maintained and improved Spring framework based web server using **Java, Kotlin and Hibernate**. (eg., game web store, recruitment site, game homepage, etc )
-> - Reduced unnecessary duplication of work by 3 times through merging projects that were initially divided by country.
+> - **Reduced unnecessary duplication of work by 3 times** through merging projects that were initially divided by country.
+> - **Reduced inquiry response time by 25%** by correcting incorrect mappings.
+
 > - Automated the extraction of statistics and sales data by creating a crawling tool using .Net and C#.
-> - Reduced inquiry response time by 25% by correcting incorrect mappings.
-
-
 > - Developed Spring framework based java/C# Restful API.
-> - Made build script using Python.
+> - Made build script using Python.()
 > - Created web tool with **third-party** integration (eg., Teamup, Google Admob)
-> - **Data Modeling** with MySQL for R&D project
 
 <br>
 <br>
@@ -35,7 +33,7 @@
 > - **Dragon Village M**
 > - Maintain Contents Utilizing cocos2d with **Lua and C++**
 > - Attached **third-party (onestore payment library)**
-> - Find UI engine error affecting 20% in the entire UI and report it.
+> - **Find UI engine error affecting 20%** in the entire UI and report it.
 
 > - **Cabal/CabalM**
 > - Served in Korea/Japen/China/Taiwan/Thailand
@@ -45,10 +43,6 @@
 <br>
 <br>
 
-### Tools
-- WebTool (Crawling Tool)
-- Schedule alarm
-- Draw Simulator
 
 <br>
 
