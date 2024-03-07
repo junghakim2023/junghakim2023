@@ -1,5 +1,5 @@
 ## Career
-- (06/2020-07/2023) Backend Developer(2 years) / Game Software Developer(1 year)
+- (06/2020-07/2023) Full Stack Developer(2 years) / Game Software Developer(1 year)
 - (09/2018-01/2020) Mobile Game Software Developer
 
 ## Contact
@@ -53,7 +53,7 @@
 <br>
 
 ## Skill
-- Java, C#, C++, JavaScript, MySQL, MSSQL, SpringBoot, AWS, Python, .Net, Linux, React, HTML, CSS, NodeJS, Jquery
+- Java, C#, C++, JavaScript, MySQL, MSSQL, SpringBoot, AWS, Python, .Net, Linux, React, Angular, HTML, CSS, NodeJS, Jquery
 - Git, SVN, Jenkins, Maven, Tomcat, Apache
 
 
