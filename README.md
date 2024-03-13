@@ -12,13 +12,13 @@
   ![image](https://github.com/junghakim2023/junghakim2023/assets/150854918/dcefab34-e6fd-4de4-b8d2-11440dfb6077)
 - [Cabal Homepage](https://cabal.estgames.com/main) 
 - [Estgames Recruit WebSite](https://recruit.estgames.co.kr/recruitBoard/list)
-> - Maintained and improved Spring framework based web server using **Java, Kotlin and Hibernate**. (eg., game web store, recruitment site, game homepage, etc )
+> - Developed Spring/.Net  framework based java/C# Restful APIs, Reducing the load on specific queries by **30% through proper indexing configuration.**
 > - **Reduced unnecessary duplication of work by 3 times** through merging projects that were initially divided by country.
 > - **Reduced inquiry response time by 25%** by correcting incorrect mappings.
 
 > - Automated the extraction of statistics and sales data by creating a crawling tool using .Net and C#.
 > - Developed Spring framework based java/C# Restful API.
-> - Made build script using Python.()
+> - Made build script using Python.
 > - Created web tool with **third-party** integration (eg., Teamup, Google Admob)
 
 <br>
