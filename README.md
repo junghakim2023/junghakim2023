@@ -16,12 +16,12 @@
 - (Unable to access in Korea) https://www.payvalortolls.com
 <img width="1094" height="656" alt="image" src="https://github.com/user-attachments/assets/ca59085e-3119-4d62-8556-6c2e0b2c5f9f" />
 
-> - Developed and maintained a highway toll fee settlement system based on **Java, Spring Framework, ZK Framework, and Microsoft SQL Server (MSSQL)**
-> - Implemented automated logic and **batch processes for large-scale data** retrieval and analysis
-> - Designed **REST APIs** for processing Registration Hold data and developed integration with **external vendors**
-> - Performed **Java version upgrades** and web application migration
-> - Integrated a payment system using the **PayNearMe RESTful API**
-
+> - Java, Spring Framework, ZK Framework, Microsoft SQL Server(MSSQL) 기반 고속도로 톨비 정산 시스템 개발 및 유지보수
+> - **대규모 데이터 조회 및 분석**을 위한 자동화 로직 및 배치 프로세스 구현
+> - Registration Hold 데이터 처리를 위한 **RESTful API 설계 및 외부 업체 연동 개발** 
+> - **Java 버전 업그레이드** 및 웹 애플리케이션 마이그레이션 수행
+> - **PayNearMe RESTful API** 기반 결제 시스템 연동 개발
+> - 쿼리 최적화로 퍼포먼스 개선 (속도 50% 개선)
 
 <br>
 <br>
@@ -32,14 +32,14 @@
   ![image](https://github.com/junghakim2023/junghakim2023/assets/150854918/dcefab34-e6fd-4de4-b8d2-11440dfb6077)
 - [Cabal Homepage](https://cabal.estgames.com/main) 
 - [Estgames Recruit WebSite](https://recruit.estgames.co.kr/recruitBoard/list)
-> - Developed Spring/.Net  framework based java/C# Restful APIs, Reducing the load on specific queries by **30% through proper indexing configuration.**
-> - **Reduced unnecessary duplication of work by 3 times** through merging projects that were initially divided by country.
-> - **Reduced inquiry response time by 25%** by correcting incorrect mappings.
+> - Spring 및 .NET 기반 Java/C# RESTful API 개발, 인덱스 최적화를 통해 특정 쿼리 부하 **30% 감소**
+> - 국가별로 분리되어 있던 프로젝트를 통합하여 **중복 개발 업무 3배 감소**
+> - 잘못된 데이터 매핑 수정으로 문의 **응답 시간 25% 개선**
 
-> - Automated the extraction of statistics and sales data by creating a crawling tool using .Net and C#.
-> - Developed Spring framework based java/C# Restful API.
-> - Made build script using Python.
-> - Created web tool with **third-party** integration (eg., Teamup, Google Admob)
+> - .NET 및 C#을 활용한 웹 크롤링 도구 개발로 통계 및 매출 데이터 자동 수집
+> - Spring Framework 기반 Java RESTful API 개발
+> - Python, shellscript 을 활용한 빌드 스크립트 제작
+> - Teamup, Google AdMob 등 외부 서비스 연동 웹 도구 개발
 
 <br>
 <br>
@@ -51,14 +51,14 @@
 - Android App [Cabal Assistance](https://play.google.com/store/apps/details?id=com.ESTSoft.Cabal&hl=ko&gl=US)
 - IOS App [Cabal Assistance](https://apps.apple.com/kr/app/cabal-mobile/id413623407)
 > - **Dragon Village M**
-> - Maintain Contents Utilizing cocos2d with **Lua and C++**
-> - Attached **third-party (onestore payment library)**
-> - **Find UI engine error affecting 20%** in the entire UI and report it.
+> - cocos2d 기반 콘텐츠 유지보수 (Lua, C++ 활용)
+> - OneStore 결제 라이브러리 등 외부 SDK 연동
+> - 전체 UI 시스템의 약 20%에 영향을 주는 UI 엔진 오류 발견 및 보고
 
 > - **Cabal/CabalM**
-> - Served in Korea/Japen/China/Taiwan/Thailand
-> - Maintain Contents Utilizing directX9 with **C++**
-> - Solved **iOS/Android** issues
+> - 한국, 일본, 중국, 대만, 태국 서비스 운영 경험
+> - DirectX9 기반 C++로 게임 콘텐츠 유지보수
+> - iOS / Android 플랫폼 이슈 대응 및 수정
 
 <br>
 <br>
