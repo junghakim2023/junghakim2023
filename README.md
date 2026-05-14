@@ -1,13 +1,33 @@
 ## Career
-- (06/2020-07/2023) Full Stack Developer(2 years) / Game Software Developer(1 year)
-- (09/2018-01/2020) Mobile Game Software Developer
+- (06/2024-03/2026) **UBIX Innovation** - Backend Developer
+- (06/2020-07/2023) **Est Games** - Backend Developer(2 years) / Game Software Developer(1 year)
+- (09/2018-01/2020) **PerpleLab** - Mobile Game Software Developer
 
 ## Contact
 - email : jungha.kim.2023@gmail.com
-- phone : +1 (236)688-8598
+- phone : 010-9085-2654
+
+
 
 ## Project in Company
-### WEB Service
+
+### UBIX Innovation
+- (Unable to access in Korea) https://www.paytheatolls.com
+- (Unable to access in Korea) https://www.payvalortolls.com
+<img width="1094" height="656" alt="image" src="https://github.com/user-attachments/assets/ca59085e-3119-4d62-8556-6c2e0b2c5f9f" />
+
+> - Developed and maintained a highway toll fee settlement system based on **Java, Spring Framework, ZK Framework, and Microsoft SQL Server (MSSQL)**
+> - Implemented automated logic and **batch processes for large-scale data** retrieval and analysis
+> - Designed **REST APIs** for processing Registration Hold data and developed integration with **external vendors**
+> - Performed **Java version upgrades** and web application migration
+> - Integrated a payment system using the **PayNearMe RESTful API**
+
+
+<br>
+<br>
+
+### Est Games
+#### WEB Service
 - [Cabal Game Web Store]
   ![image](https://github.com/junghakim2023/junghakim2023/assets/150854918/dcefab34-e6fd-4de4-b8d2-11440dfb6077)
 - [Cabal Homepage](https://cabal.estgames.com/main) 
@@ -24,7 +44,7 @@
 <br>
 <br>
 
-### Mobile Game
+#### Mobile Game
 - [Dragon Vilage M](https://play.google.com/store/apps/details?id=com.perplelab.dragonvillagem.kr&hl=en_US&pli=1)
 - [Cabal](https://cabal.playthisgame.com/en) 
 - [CabalM](https://play.google.com/store/apps/details?id=com.estgames.cm.us&hl=en_US)
@@ -47,7 +67,7 @@
 <br>
 
 ## Skill
-- Java, C#, C++, JavaScript, MySQL, MSSQL, SpringBoot, AWS, Python, .Net, Linux, React, Angular, HTML, CSS, NodeJS, Jquery
+- Java, C#, C++, JavaScript, MySQL, MSSQL, Spring Framework, AWS, Python, .Net, Linux, React, Angular, HTML, CSS, NodeJS, Jquery
 - Git, SVN, Jenkins, Maven, Tomcat, Apache
 
 
