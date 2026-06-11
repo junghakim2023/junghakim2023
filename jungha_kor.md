@@ -8,6 +8,12 @@
 - phone : 010-9085-2654
 
 
+## Personal Project
+- [AuthHub](https://github.com/junghakim2023/AuthHub)
+- [TimeTutor](https://github.com/junghakim2023/TimeTutor)
+- [TimeTutor_React](https://github.com/junghakim2023/TimeTutor_React)
+
+
 
 ## Project in Company
 
@@ -70,11 +76,6 @@
 - Java, C#, C++, JavaScript, MySQL, MSSQL, Spring Framework, AWS, Python, .Net, Linux, React, Angular, HTML, CSS, NodeJS, Jquery
 - Git, SVN, Jenkins, Maven, Tomcat, Apache
 
-
-## Personal Project
-- [TimeTutor](https://github.com/junghakim2023/TimeTutor)
-- [TimeTutor_React](https://github.com/junghakim2023/TimeTutor_React)
-- [AuthHub](https://github.com/junghakim2023/AuthHub)
 
 ## Interest
 - Boxing
