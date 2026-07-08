@@ -22,7 +22,7 @@
 - (Unable to access in Korea) https://www.payvalortolls.com
 <img width="1094" height="656" alt="image" src="https://github.com/user-attachments/assets/ca59085e-3119-4d62-8556-6c2e0b2c5f9f" />
 
-> - Java, Spring Framework, ZK Framework, Microsoft SQL Server(MSSQL) 기반 고속도로 톨비 정산 시스템 개발 및 유지보수
+> - Java, Spring Framework, ZK Framework, Microsoft SQL Server(MSSQL) 기반 고속도로 톨비 정산 시스템&서비스 센터 개발 및 유지보수
 > - **대규모 데이터 조회 및 분석**을 위한 자동화 로직 및 배치 프로세스 구현
 > - Registration Hold 데이터 처리를 위한 **RESTful API 설계 및 외부 업체 연동 개발** 
 > - **Java 버전 업그레이드** 및 웹 애플리케이션 마이그레이션 수행
