@@ -16,8 +16,9 @@
 
 
 
-## 프로젝트 및 기술 경험
-[[김정하]주요_프로젝트_및_기술_경험_김정하_930507.pdf](https://github.com/user-attachments/files/30303895/_._._._._._930507.pdf)
+## 일부 프로젝트 및 기술 경험 상세
+[일부 프로젝트_및_기술_경험_상세_930507.pdf](https://github.com/user-attachments/files/30303970/_._._._._930507.pdf)
+
 
 
 
