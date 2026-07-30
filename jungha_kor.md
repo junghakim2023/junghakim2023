@@ -33,10 +33,10 @@
 
 > - Java, Spring Framework, ZK Framework, Microsoft SQL Server(MSSQL) 기반 고속도로 톨비 정산 시스템&서비스 센터 개발 및 유지보수
 > - **대규모 데이터 조회 및 분석**을 위한 자동화 로직 및 배치 프로세스 구현
-> - Registration Hold 데이터 처리를 위한 **RESTful API 설계 및 외부 업체 연동 개발** 
-> - **Java 버전 업그레이드** 및 웹 애플리케이션 마이그레이션 수행
-> - **PayNearMe RESTful API** 기반 결제 시스템 연동 개발
-> - 쿼리 최적화로 퍼포먼스 개선 (속도 50% 개선)
+> - Registration Hold 데이터 처리를 위한 **RESTful API 설계 및 개발** 
+> - 라이브 서비스 **Java 버전 업그레이드**
+> - 서비스에 **PayNearMe RESTful API** 기반 결제 시스템 추가
+> - MSSQL 쿼리 최적화로 퍼포먼스 개선 (속도 50% 개선)
 
 <br>
 <br>
@@ -47,9 +47,9 @@
   ![image](https://github.com/junghakim2023/junghakim2023/assets/150854918/dcefab34-e6fd-4de4-b8d2-11440dfb6077)
 - [Cabal Homepage](https://cabal.estgames.com/main) 
 - [Estgames Recruit WebSite](https://recruit.estgames.co.kr/recruitBoard/list)
-> - Spring 및 .NET 기반 Java/C# RESTful API 개발, 인덱스 최적화를 통해 특정 쿼리 부하 **30% 감소**
+> - Spring 및 .NET 기반 Java/C# RESTful API 개발
+> - 인덱스 최적화, 잘못된 데이터 매핑 수정을 통해 특정 쿼리 속도 **50% 이상 감소**
 > - 국가별로 분리되어 있던 프로젝트를 통합하여 **중복 개발 업무 3배 감소**
-> - 잘못된 데이터 매핑 수정으로 문의 **응답 시간 25% 개선**
 
 > - .NET 및 C#을 활용한 웹 크롤링 도구 개발로 통계 및 매출 데이터 자동 수집
 > - Spring Framework 기반 Java RESTful API 개발
