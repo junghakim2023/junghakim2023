@@ -8,12 +8,16 @@
 - phone : 010-9085-2654
 
 
-## Personal Project
+## 포트폴리오
 - [AuthHub](https://github.com/junghakim2023/AuthHub)
+  - 통합 로그인 서비스
+- [Tensorflow_Sandbox](https://github.com/junghakim2023/tensorflow_sandbox)
+  - TensorFlow 학습
+- [AI_STOCK_AGENT](https://github.com/junghakim2023/AI_AGENT_stock_agent)
+  - LLM 학습 및 응용
 - [TimeTutor](https://github.com/junghakim2023/TimeTutor)
 - [TimeTutor_React](https://github.com/junghakim2023/TimeTutor_React)
-- [Tensorflow_Sandbox](https://github.com/junghakim2023/tensorflow_sandbox)
-- [AI_STOCK_AGENT](https://github.com/junghakim2023/AI_AGENT_stock_agent)
+
 
 
 
