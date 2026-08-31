@@ -12,7 +12,9 @@
 - [AuthHub](https://github.com/junghakim2023/AuthHub)
   - 통합 로그인 서비스
 - [Tensorflow_Sandbox](https://github.com/junghakim2023/tensorflow_sandbox)
-  - TensorFlow 학습
+  - TensorFlow 문장 학습 후 다음 문장 추측
+- [Tensorflow_Sandbox_digit](https://github.com/junghakim2023/tensorflow_sandbox_digit)
+  - TensorFlow로 숫자 이미지 학습 후 숫자 이미지 추출
 - [AI_STOCK_AGENT](https://github.com/junghakim2023/AI_AGENT_stock_agent)
   - LLM 학습 및 응용
 - [TimeTutor](https://github.com/junghakim2023/TimeTutor)
