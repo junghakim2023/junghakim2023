@@ -78,7 +78,7 @@
 
 ## 포트폴리오
 - [AuthHub](https://github.com/junghakim2023/AuthHub)
-Authenticating with Single Sign-On(SSO)
+- Authenticating with Single Sign-On(SSO)
 
 - 작업기간 : 2023-11-25 ~ 2023-12-20
 - 작업인원 : 1 명
