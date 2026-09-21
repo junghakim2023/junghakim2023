@@ -44,6 +44,7 @@
 > - 서비스에 **PayNearMe RESTful API** 기반 결제 시스템 추가
 > - MSSQL 쿼리 최적화로 퍼포먼스 개선 (속도 50% 개선)
 > - Git/Jenkins/ShellScript를 활용한 CI/CD 배포 파이프 라인 구축
+> - 신규 서비스 요구사항 기반으로  MSSQL 데이터베이스 및 테이블 구조 설계
 
 <br>
 <br>
@@ -64,6 +65,7 @@
 > - Teamup, Google AdMob 등 외부 서비스 연동 웹 도구 개발
 > - 서비스 기술 표준화 위해  C#/MySQL을 JAVA/MSSQL로 마이그레이션
 > - Git/Jenkins/ShellScript를 활용한 CI/CD 배포 파이프 라인 구축
+> - 신규 서비스 요구사항 기반으로  MSSQL 데이터베이스 및 테이블 구조 설계
 
 <br>
 <br>
