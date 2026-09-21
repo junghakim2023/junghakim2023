@@ -43,6 +43,7 @@
 > - 라이브 서비스 **Java 버전 업그레이드**
 > - 서비스에 **PayNearMe RESTful API** 기반 결제 시스템 추가
 > - MSSQL 쿼리 최적화로 퍼포먼스 개선 (속도 50% 개선)
+> - Git/Jenkins/ShellScript를 활용한 CI/CD 배포 파이프 라인 구축
 
 <br>
 <br>
@@ -61,6 +62,8 @@
 > - Spring Framework 기반 Java RESTful API 개발
 > - Python, shellscript 을 활용한 빌드 스크립트 제작
 > - Teamup, Google AdMob 등 외부 서비스 연동 웹 도구 개발
+> - 서비스 기술 표준화 위해  C#/MySQL을 JAVA/MSSQL로 마이그레이션
+> - Git/Jenkins/ShellScript를 활용한 CI/CD 배포 파이프 라인 구축
 
 <br>
 <br>
