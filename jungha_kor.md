@@ -8,28 +8,6 @@
 - phone : 010-9085-2654
 
 
-## 포트폴리오
-- [AuthHub](https://github.com/junghakim2023/AuthHub)
-  - 통합 로그인 서비스
-- [Tensorflow_Sandbox](https://github.com/junghakim2023/tensorflow_sandbox)
-  - TensorFlow 문장 학습 후 다음 문장 추측
-- [Tensorflow_Sandbox_digit](https://github.com/junghakim2023/tensorflow_sandbox_digit)
-  - TensorFlow로 숫자 이미지 학습 후 숫자 이미지 추출
-- [AI_STOCK_AGENT](https://github.com/junghakim2023/AI_AGENT_stock_agent)
-  - LLM 학습 및 응용
-- [TimeTutor](https://github.com/junghakim2023/TimeTutor)
-- [TimeTutor_React](https://github.com/junghakim2023/TimeTutor_React)
-
-
-
-
-## 일부 프로젝트 및 기술 경험 상세
-[일부 프로젝트_및_기술_경험_상세_930507.pdf](https://github.com/user-attachments/files/30303970/_._._._._930507.pdf)
-
-
-
-
-
 ## Project in Company
 
 ### UBIX Innovation
@@ -88,6 +66,45 @@
 
 <br>
 <br>
+
+
+## 경력 기술서 - 특정 프로젝트 및 기술 경험 상세
+[일부 프로젝트_및_기술_경험_상세_930507.pdf](https://github.com/user-attachments/files/30303970/_._._._._930507.pdf)
+
+
+<br>
+<br>
+
+
+## 포트폴리오
+- [AuthHub](https://github.com/junghakim2023/AuthHub)
+Authenticating with Single Sign-On(SSO)
+
+- 작업기간 : 2023-11-25 ~ 2023-12-20
+- 작업인원 : 1 명
+- 작업 툴 : InteliJ
+- 작품소개 : Single Sign-On(SSO) 구현
+  - Java, Spring boot, Spring Security 사용
+  -  목표 : 특정 서비스에 종속되지 않는 독립적인 SSO 인증 시스템 구현
+  -  결과 : 타 서비스에서 해당 로그인 서비스 통한 로그인 및 인증 연동이 정상적으로 동작함을 확인
+      - 로그인 연동 적용한 타 프로젝트 : https://github.com/junghakim2023/TimeTutor_React
+
+- [TimeTutor](https://github.com/junghakim2023/TimeTutor)
+- [TimeTutor_React](https://github.com/junghakim2023/TimeTutor_React)
+
+---
+
+- [Tensorflow_Sandbox](https://github.com/junghakim2023/tensorflow_sandbox)
+  - TensorFlow 문장 학습 후 다음 문장 추측
+- [Tensorflow_Sandbox_digit](https://github.com/junghakim2023/tensorflow_sandbox_digit)
+  - TensorFlow로 숫자 이미지 학습 후 숫자 이미지 추출
+- [AI_STOCK_AGENT](https://github.com/junghakim2023/AI_AGENT_stock_agent)
+  - LLM 학습 및 응용
+
+---
+
+
+
 
 
 <br>
