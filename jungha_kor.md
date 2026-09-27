@@ -16,13 +16,12 @@
 <img width="1094" height="656" alt="image" src="https://github.com/user-attachments/assets/ca59085e-3119-4d62-8556-6c2e0b2c5f9f" />
 
 > - Java, Spring Framework, ZK Framework, Microsoft SQL Server(MSSQL) 기반 고속도로 톨비 정산 시스템&서비스 센터 개발 및 유지보수
-> - **대규모 데이터 조회 및 분석**을 위한 자동화 로직 및 배치 프로세스 구현
-> - Registration Hold 데이터 처리를 위한 **RESTful API 설계 및 개발** 
+> - 새로운 고객사 대상으로 기존 **솔루션 커스터마이징 하여 런칭**, MSSQL 데이터베이스 및 테이블 구조 설계
+> - 대규모 데이터 조회 및 분석 쿼리 작성& 쿼리 최적화로 퍼포먼스 개선 **(속도 50% 개선)**
+> - 여러 고객사와 협력하여 필요한 **RESTful API 설계 및 개발** 
 > - 라이브 서비스 **Java 버전 업그레이드**
-> - 서비스에 **PayNearMe RESTful API** 기반 결제 시스템 추가
-> - MSSQL 쿼리 최적화로 퍼포먼스 개선 (속도 50% 개선)
-> - Git/Jenkins/ShellScript를 활용한 CI/CD 배포 파이프 라인 구축
-> - 신규 서비스 요구사항 기반으로  MSSQL 데이터베이스 및 테이블 구조 설계
+> - **웹 결제 시스템** 구축 및 안정적인 결제 데이터 관리(고객사와 크로스체크)
+> - Git/Jenkins/ShellScript를 활용한 CI/CD **배포 파이프** 라인 구축
 
 <br>
 <br>
