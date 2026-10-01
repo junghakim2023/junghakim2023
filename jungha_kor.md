@@ -10,7 +10,7 @@
 
 ## Project in Company
 
-### UBIX Innovation
+### UBIX Innovations Inc
 - (Unable to access in Korea) https://www.paytheatolls.com
 - (Unable to access in Korea) https://www.payvalortolls.com
 <img width="1094" height="656" alt="image" src="https://github.com/user-attachments/assets/ca59085e-3119-4d62-8556-6c2e0b2c5f9f" />
